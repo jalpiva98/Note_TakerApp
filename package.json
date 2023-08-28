@@ -1,5 +1,5 @@
 {
-  "name": "note-taker",
+  "name": "Note_TakerApp",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,10 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Alejandro",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
-    "inquirer": "^8.2.4"
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
